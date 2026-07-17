@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FreshMart — Modern Grocery E-Commerce Platform 🛒
 
 Welcome to **FreshMart**! This is a professional, production-ready full-stack grocery e-commerce web application. It was designed and built to bridge the gap between neighborhood stores and online convenience, offering local residents instant access to fresh produce, artisan goods, and daily essentials with seamless same-day delivery.
@@ -103,3 +104,7 @@ Open [http://localhost:3000](http://localhost:3000) to view the application.
 - [ ] Implement production-grade auth session cookies (e.g., Next-Auth/Auth.js).
 - [ ] Integrate actual stripe payment gateway instead of mockup.
 - [ ] Enhance UI animations with Framer Motion.
+=======
+# FreshMart — Modern Grocery E-Commerce Platform
+
+>>>>>>> ab02a6da1e6cdfc957df8985e696c06dc6539fbe
